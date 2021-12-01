@@ -51,7 +51,7 @@ Mr.S Foundation Is my Dream Project.Through that I want to gave a Free Couching 
 
 #### Github Stats
 
-![Narasimman's github stats](https://github-readme-stats.vercel.app/api?username=mrsfoundations&count_private=true&theme=merko&hide=stars)
+![Narasimman's github stats](https://github-readme-stats.vercel.app/api?username=mrsfoundations&count_private=true&theme=merko&=stars)
 
 </details>
 
