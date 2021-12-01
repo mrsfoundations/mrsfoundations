@@ -13,7 +13,7 @@ I'm Narasimman a Full Stack Web Developer. I Spend most of time coding projects
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: narasimmanvijay787@gmail.com
 - 😄 Pronouns: CoderOne, narasimman.
-- ⚡ Fun fact: I play online games and go to the GYM very often.
+- ⚡ Fun fact: I play online games.
 
 #### Top Technologies
 
