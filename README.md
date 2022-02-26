@@ -22,7 +22,7 @@ I'm Narasimman a Full Stack Web Developer. I Spend most of time coding projects
  [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 #### Bizness
-- :paperclip: [Resume](https://drive.google.com/file/d/1ehosFoHFOplFVut6kpKEfXqbPtoAf-9O/view?usp=sharing)
+- :paperclip: [Resume](https://drive.google.com/file/d/1DwYpFnjHm3rloUwCUQUnlZ3BxrYEjxJ4/view?usp=sharing)
 - :email: narasimmanvijay787@gmail.com
 
 
@@ -55,8 +55,3 @@ Mr.S Foundation Is my Dream Project.Through that I want to gave a Free Couching 
 
 </details>
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37Ep
