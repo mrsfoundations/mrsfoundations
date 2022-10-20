@@ -23,7 +23,7 @@ I'm Narasimman a Full Stack Web Developer. I Spend most of time coding projects
  
 ### Course Completed Badge
 <!--Badges List-->
-[![Google Data Analytics](https://www.credly.com/badges/b668d1f8-d402-438c-bdcd-baf224439257/linked_in?t=rexy6p)
+[![Google Data Analytics:](https://www.credly.com/badges/b668d1f8-d402-438c-bdcd-baf224439257/linked_in?t=rexy6p)]
 
 #### Bizness
 - :paperclip: [Resume](https://drive.google.com/file/d/1E8o0-bw1zjBAE1tSSe9qrhOvp40ZcWGc/view?usp=sharing)
