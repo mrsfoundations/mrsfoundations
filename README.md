@@ -8,11 +8,11 @@ I'm Narasimman a Full Stack Web Developer. I Spend most of time coding projects
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently Studing final year in BCA.
+- 🔭 I’m currently Studing First year in MCA.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: narasimmanvijay787@gmail.com
-- 😄 Pronouns: CoderOne, narasimman.
+- 😄 Pronouns: Narasimman.
 - ⚡ Fun fact: I play online games.
 
 #### Top Technologies
